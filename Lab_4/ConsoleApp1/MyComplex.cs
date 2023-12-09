@@ -10,7 +10,7 @@ namespace ConsoleApp1
         private BigInteger re;
         private BigInteger im;
 
-        //_____________________________Constructors____________________________
+        //_____________________________Constructors____________________________ 
         public MyComplex()
         {
             this.re = 0;

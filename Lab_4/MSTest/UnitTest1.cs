@@ -69,7 +69,7 @@ namespace MSTest
             int bools = string.Compare(expected, "-17+9i");
             Assert.AreEqual(0, bools);
         }
-        [TestMethod]
+        [TestMethod] 
         public void MyComplexDivide()
         {
             MyComplex a = new MyComplex(1, 3);

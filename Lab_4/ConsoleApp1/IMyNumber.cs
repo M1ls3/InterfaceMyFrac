@@ -11,5 +11,5 @@ namespace ConsoleApp1
         T Multiply(T b);
         T Divide(T b);
 
-    }
+    } 
 }

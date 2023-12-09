@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UH6n5c3U0yEG7QKNA/vpFHkSImibxUhkJEi4oA1QMqj5wwz127izXoxsr4vAQpMHKbESpuW2Gkc8LiJQx8BXqQ==",
+  "dgSpecHash": "C8fe9AdrpfEAkTUEW57Fl+gEb9Sut6LgdGUgWlhUvJ3Y7PkdnsDh0Y3kexxCoiVIjwPpBt0Rww3KpREq2X/uJg==",
   "success": true,
-  "projectFilePath": "C:\\!Dizox\\Лаби\\ЧНУ\\2022 рік 1 семестр 2 курсу\\ООП\\Лаба 4\\Lab_4\\Lab_4\\MSTest\\MSTest.csproj",
+  "projectFilePath": "C:\\!Dizox\\Git\\Repositories\\Molchanov_OOP_Lab_4_2022\\Lab_4\\MSTest\\MSTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dizox\\.nuget\\packages\\coverlet.collector\\3.0.3\\coverlet.collector.3.0.3.nupkg.sha512",
     "C:\\Users\\Dizox\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",

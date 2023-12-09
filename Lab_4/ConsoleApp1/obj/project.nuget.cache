@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GnbUelxjEg5TCYFblkWrEWZGvmLttyfPVerHqycHrDhaYmZllq+lcLWrBQ98jigY2chft2U51i8837X2wKJg/w==",
+  "dgSpecHash": "XajjHv4N9ObKbdTXVHbRHpkdUWfeNF4IevS3+OgCG3Mmz6MWJFvGLht6Bp3jVbcvtTeNOhTfRWL1Knkp/VvEVQ==",
   "success": true,
-  "projectFilePath": "C:\\!Dizox\\Лаби\\ЧНУ\\2022 рік 1 семестр 2 курсу\\ООП\\Лаба 4\\Lab_4\\Lab_4\\ConsoleApp1\\ConsoleApp1.csproj",
+  "projectFilePath": "C:\\!Dizox\\Git\\Repositories\\Molchanov_OOP_Lab_4_2022\\Lab_4\\ConsoleApp1\\ConsoleApp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dizox\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",
     "C:\\Users\\Dizox\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
